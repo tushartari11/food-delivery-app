@@ -1,0 +1,73 @@
+{
+  "hash": "40a32f22",
+  "configHash": "250838cd",
+  "lockfileHash": "20a1d762",
+  "browserHash": "ca950f58",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "9d0c28dd",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "0ea129b7",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "49c64b01",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "8b28ee4a",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "92fcdd1f",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "8f3301f6",
+      "needsInterop": false
+    },
+    "rxjs/operators": {
+      "src": "../../../../../node_modules/rxjs/dist/esm5/operators/index.js",
+      "file": "rxjs_operators.js",
+      "fileHash": "aaef4b6a",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-DEZ3NUUQ": {
+      "file": "chunk-DEZ3NUUQ.js"
+    },
+    "chunk-K7I3YBPT": {
+      "file": "chunk-K7I3YBPT.js"
+    },
+    "chunk-HDFNTJDY": {
+      "file": "chunk-HDFNTJDY.js"
+    },
+    "chunk-2NJ7L2DD": {
+      "file": "chunk-2NJ7L2DD.js"
+    },
+    "chunk-V2DXGMIT": {
+      "file": "chunk-V2DXGMIT.js"
+    },
+    "chunk-UKEHM6V6": {
+      "file": "chunk-UKEHM6V6.js"
+    },
+    "chunk-ZDOIMVJD": {
+      "file": "chunk-ZDOIMVJD.js"
+    }
+  }
+}
