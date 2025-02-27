@@ -1,4 +1,4 @@
-package com.telefonica.prepaid.order.entity;
+package com.rekreation.app.fooddelivery.order.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

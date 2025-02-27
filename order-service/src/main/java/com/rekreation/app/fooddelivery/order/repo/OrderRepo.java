@@ -1,6 +1,6 @@
-package com.telefonica.prepaid.order.repo;
+package com.rekreation.app.fooddelivery.order.repo;
 
-import com.telefonica.prepaid.order.entity.Order;
+import com.rekreation.app.fooddelivery.order.entity.Order;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

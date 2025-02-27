@@ -1,7 +1,7 @@
-package com.telefonica.prepaid.order.mapper;
+package com.rekreation.app.fooddelivery.order.mapper;
 
-import com.telefonica.prepaid.order.dto.OrderDTO;
-import com.telefonica.prepaid.order.entity.Order;
+import com.rekreation.app.fooddelivery.order.dto.OrderDTO;
+import com.rekreation.app.fooddelivery.order.entity.Order;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 

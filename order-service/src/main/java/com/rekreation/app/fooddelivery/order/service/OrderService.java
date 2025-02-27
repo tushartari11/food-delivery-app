@@ -1,11 +1,11 @@
-package com.telefonica.prepaid.order.service;
+package com.rekreation.app.fooddelivery.order.service;
 
-import com.telefonica.prepaid.order.dto.OrderDTO;
-import com.telefonica.prepaid.order.dto.OrderDTOFromFE;
-import com.telefonica.prepaid.order.dto.UserDTO;
-import com.telefonica.prepaid.order.entity.Order;
-import com.telefonica.prepaid.order.mapper.OrderMapper;
-import com.telefonica.prepaid.order.repo.OrderRepo;
+import com.rekreation.app.fooddelivery.order.dto.OrderDTOFromFE;
+import com.rekreation.app.fooddelivery.order.entity.Order;
+import com.rekreation.app.fooddelivery.order.dto.OrderDTO;
+import com.rekreation.app.fooddelivery.order.dto.UserDTO;
+import com.rekreation.app.fooddelivery.order.mapper.OrderMapper;
+import com.rekreation.app.fooddelivery.order.repo.OrderRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

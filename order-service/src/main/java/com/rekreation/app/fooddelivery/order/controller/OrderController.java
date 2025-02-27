@@ -1,8 +1,8 @@
-package com.telefonica.prepaid.order.controller;
+package com.rekreation.app.fooddelivery.order.controller;
 
-import com.telefonica.prepaid.order.dto.OrderDTO;
-import com.telefonica.prepaid.order.dto.OrderDTOFromFE;
-import com.telefonica.prepaid.order.service.OrderService;
+import com.rekreation.app.fooddelivery.order.dto.OrderDTOFromFE;
+import com.rekreation.app.fooddelivery.order.dto.OrderDTO;
+import com.rekreation.app.fooddelivery.order.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

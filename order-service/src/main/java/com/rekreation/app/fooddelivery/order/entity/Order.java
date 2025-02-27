@@ -1,8 +1,8 @@
-package com.telefonica.prepaid.order.entity;
+package com.rekreation.app.fooddelivery.order.entity;
 
-import com.telefonica.prepaid.order.dto.FoodItemsDTO;
-import com.telefonica.prepaid.order.dto.Restaurant;
-import com.telefonica.prepaid.order.dto.UserDTO;
+import com.rekreation.app.fooddelivery.order.dto.FoodItemsDTO;
+import com.rekreation.app.fooddelivery.order.dto.Restaurant;
+import com.rekreation.app.fooddelivery.order.dto.UserDTO;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

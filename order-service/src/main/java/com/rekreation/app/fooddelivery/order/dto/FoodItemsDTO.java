@@ -1,4 +1,4 @@
-package com.telefonica.prepaid.order.dto;
+package com.rekreation.app.fooddelivery.order.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.telefonica.prepaid.order;
+package com.rekreation.app.fooddelivery.order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
