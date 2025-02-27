@@ -1,0 +1,45 @@
+### VS Code ###
+.vscode/
+
+##############################
+## Angular
+##############################
+# Compiled Output
+
+dist/
+tmp/
+app/**/*.js
+app/**/*.js.map
+/out-tsc
+
+##############################
+## Miscellaneous
+##############################
+/.angular/cache
+/.sass-cache 
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+##############################
+## Dependencies
+##############################
+
+node_modules/
+bower_components/
+
+##############################
+## E2E
+##############################
+/e2e/*.js
+/e2e/*.map
+
+##############################
+## System Files
+##############################
+
+.DS_Store
+Thumbs.db
